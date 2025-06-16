@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ala'a Al-deen Al-Haddad (proalaa)
+# 👋 Hi, I'm Ala'a Al-deen Al-Haddad
 
 Welcome to my GitHub! I’m a passionate software engineer dedicated to delivering robust, scalable solutions, and supporting the developer community through code, mentorship, and open source. My journey is driven by curiosity, craftsmanship, and a desire to have real impact with technology.
 
