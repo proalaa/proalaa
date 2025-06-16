@@ -25,7 +25,7 @@ Welcome to my GitHub! I’m a passionate software engineer dedicated to deliveri
 ## 🛠️ My Toolbox
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, Bash, and more
-- **Frameworks:** React, Vue, Next.js, Node.js, Express, Laravel, Flask
+- **Frameworks:** React, Vue, Next.js, Node.js, Express, Laravel
 - **Databases:** PostgreSQL, MySQL, MongoDB
 - **DevOps:** Docker, GitHub Actions, CI/CD, AWS, Vercel
 - **Testing:** Jest, Cypress, PHPUnit, Playwright
@@ -53,8 +53,8 @@ Welcome to my GitHub! I’m a passionate software engineer dedicated to deliveri
 ## 📫 Let's Connect!
 
 - [GitHub](https://github.com/proalaa)
-- [LinkedIn](https://www.linkedin.com/in/proalaa) <!-- Update with your actual LinkedIn if available -->
-- [Email](mailto:alaa.haddad.dev@gmail.com) <!-- Update with your actual email if you wish -->
+- [LinkedIn](https://www.linkedin.com/in/alaa-aldeen-alhaddad/) 
+- [Email](mailto:alaa4455@gmail.com) 
 
 ---
 
