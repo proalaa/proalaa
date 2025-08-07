@@ -54,7 +54,8 @@ Welcome to my GitHub! I’m a passionate software engineer dedicated to deliveri
 
 - [GitHub](https://github.com/proalaa)
 - [LinkedIn](https://www.linkedin.com/in/alaa-aldeen-alhaddad/) 
-- [Email](mailto:alaa4455@gmail.com) 
+- [Email](mailto:alaa4455@gmail.com)
+- [Portfolio](aladdin-dev.vercel.app)
 
 ---
 
